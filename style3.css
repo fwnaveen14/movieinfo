@@ -1,0 +1,24 @@
+@charset "utf-8";
+body{
+	background-color: firebrick
+}
+
+
+.container-fluid .container footer {
+	background-color: black;
+	color: white
+}
+
+
+
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    background-color: #B13032;
+}
+
+
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    background-color: #1A539C;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    background-color: #B822BC;
+}
